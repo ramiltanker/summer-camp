@@ -5,3 +5,9 @@
   align-items: center;
   margin-bottom: 170px;
 }
+
+@media all and (max-width: 1024px) {
+  .team {
+    margin-bottom: 120px;
+  }
+}

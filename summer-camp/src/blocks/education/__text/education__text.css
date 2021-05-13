@@ -8,3 +8,11 @@
   color: #202020;
   margin: 0;
 }
+
+@media all and (max-width: 1024px) {
+  .education__text {
+    font-size: 15px;
+    width: 300px;
+    text-align: center;
+  }
+}

@@ -23,3 +23,10 @@
     width: 280px;
   }
 }
+
+@media all and (max-width: 320px) {
+  .about__header {
+    width: 260px;
+    font-size: 30px;
+  }
+}

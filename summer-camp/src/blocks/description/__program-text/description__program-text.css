@@ -12,3 +12,13 @@
   margin-top: 106px;
   margin-bottom: 106px;
 }
+
+@media all and (max-width: 1024px) {
+  .description__program-text {
+    font-size: 13px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 55px;
+    margin-bottom: 55px;
+  }
+}

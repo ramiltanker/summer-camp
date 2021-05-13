@@ -9,18 +9,47 @@
 }
 
 .education__box:nth-of-type(1) {
-    background-image: url(../../../images/1.png);
+  background-image: url(../../../images/1.png);
 }
 
 .education__box:nth-of-type(2) {
-    background-image: url(../../../images/2.png);
+  background-image: url(../../../images/2.png);
 }
 
 .education__box:nth-of-type(3) {
-    background-image: url(../../../images/3.png);
+  background-image: url(../../../images/3.png);
 }
 
 .education__box:nth-of-type(4) {
-    background-image: url(../../../images/4.png);
+  background-image: url(../../../images/4.png);
+  margin-bottom: 0;
+}
+
+@media all and (max-width: 1024px) {
+  .education__box {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-position: top center;
+    padding: 0;
+    margin-bottom: 75px;
+    padding-top: 100px;
+  }
+
+  .education__box:nth-of-type(1) {
+    background-image: url(../../../images/web-development.png);
+  }
+  
+  .education__box:nth-of-type(2) {
+    background-image: url(../../../images/video-production.png);
+  }
+  
+  .education__box:nth-of-type(3) {
+    background-image: url(../../../images/concept.png);
+  }
+  
+  .education__box:nth-of-type(4) {
+    background-image: url(../../../images/loudspeaker.png);
     margin-bottom: 0;
+  }
 }

@@ -1,5 +1,4 @@
 .about-us__text {
-  width: 447px;
   font-family: Raleway;
   font-style: normal;
   font-weight: 300;
@@ -13,18 +12,5 @@
 @media all and (max-width: 1024px) {
   .about-us__text {
     font-size: 15px;
-    width: 394px;
-  }
-}
-
-@media all and (max-width: 375px) {
-  .about-us__text {
-    width: 340px;
-  }
-}
-
-@media all and (max-width: 320px) {
-  .about-us__text {
-    width: 300px;
   }
 }

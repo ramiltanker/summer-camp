@@ -9,3 +9,8 @@
   background-size: cover;
   background-attachment: scroll;
 }
+
+@media all and (max-width: 1024px) {
+  .description__program {
+  }
+}

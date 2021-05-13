@@ -8,3 +8,10 @@
   margin: 0;
   margin-bottom: 50px;
 }
+
+@media all and (max-width: 1024px ) {
+  .team__title {
+    font-size: 28px;
+    margin-left: 15px;
+  }
+}

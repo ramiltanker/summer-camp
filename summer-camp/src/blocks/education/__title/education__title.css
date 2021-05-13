@@ -8,3 +8,11 @@
   margin: 0;
   margin-bottom: 70px;
 }
+
+@media all and (max-width: 1024px) {
+  .education__title {
+    font-size: 28px;
+    width: 100%;
+    text-align: center;
+  }
+}

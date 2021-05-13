@@ -21,9 +21,9 @@ function Main() {
       <Team />
       <Education />
       <Description />
-      <Skills />
+      {/* <Skills />
       <Location />
-      <Footer />
+      <Footer /> */}
     </>
   );
 }

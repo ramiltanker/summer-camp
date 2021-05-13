@@ -29,9 +29,11 @@ function AboutUs() {
             вёрстки и редакторы HTML используют Lorem Ipsum в качестве текста по
             умолчанию
           </p>
-          <img src={ramil} alt="Рамиль" className="about-us__image" />
-          <img src={emir} alt="Эмир" className="about-us__image" />
-          <img src={yura} alt="Юра" className="about-us__image" />
+          <div className="about-us__image-box">
+            <img src={ramil} alt="Рамиль" className="about-us__image" id="ramil" />
+            <img src={emir} alt="Эмир" className="about-us__image" id="emir" />
+            <img src={yura} alt="Юра" className="about-us__image" id="yura" />
+          </div>
         </div>
       </section>
       <section className="about-us__social-box">

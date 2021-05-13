@@ -8,3 +8,12 @@
   margin: 0;
   margin-bottom: 70px;
 }
+
+@media all and (max-width: 1024px) {
+  .description__requirements-title {
+    font-size: 28px;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+}

@@ -1,10 +1,20 @@
 .about-us__image {
-    display: none;
+  display: block;
+  object-fit: cover;
+  background-color: rgba(255, 255, 255, 0);
 }
 
-@media all and (max-width: 1024px) {
-    .about-us__image {
-        display: block;
-        object-fit: cover;
-    }
+.about-us__image#ramil {
+  width: 280px;
+  height: 290px;
+}
+
+.about-us__image#emir {
+  width: 300px;
+  height: 480px;
+}
+
+.about-us__image#yura {
+  width: 280px;
+  height: 290px;
 }

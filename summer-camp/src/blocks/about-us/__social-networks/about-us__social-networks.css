@@ -4,4 +4,12 @@
   align-items: center;
   list-style-type: none;
   margin-bottom: 65px;
+  padding: 0;
+}
+
+@media all and (max-width: 1024px) {
+  .about-us__social-networks {
+    margin-right: 15px;
+    margin-left: 15px;
+  }
 }

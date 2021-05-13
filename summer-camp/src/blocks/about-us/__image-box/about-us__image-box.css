@@ -1,0 +1,12 @@
+.about-us__image-box {
+  display: none;
+}
+
+@media all and (max-width: 1024px) {
+  .about-us__image-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

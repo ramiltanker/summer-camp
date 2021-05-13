@@ -6,3 +6,9 @@
     margin-right: 50px;
     margin-bottom: 150px;
 }
+
+@media all and (max-width: 1024px) {
+    .education {
+        margin-bottom: 60px;
+    }
+}

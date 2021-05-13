@@ -7,5 +7,15 @@
 }
 
 .team__teammate:last-of-type {
+  margin-right: 0px;
+}
+
+@media all and (max-width: 1024px) {
+  .team__teammate {
     margin-right: 0px;
+    margin-bottom: 50px;
+  }
+  .team__teammate:last-of-type {
+    margin-bottom: 0px;
+  }
 }

@@ -319,7 +319,7 @@ function Description() {
           Группы формируются исходя из возраста участников.{" "}
         </p>
       </div>
-      <div className="description__courses">
+      {/* <div className="description__courses">
         <div className="description__courses-buttons">
           <button
             className={`description__course-button ${
@@ -358,7 +358,7 @@ function Description() {
         </div>
         {isWebDevelopmentButtonCliked ? webDevelopment : ""}
         {isSoftSkillsButtonCliked ? softSkills : ""}
-      </div>
+      </div> */}
     </section>
   );
 }

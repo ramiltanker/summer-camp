@@ -6,3 +6,9 @@
   background: #000000;
   margin-bottom: 170px;
 }
+
+@media all and (max-width: 1024px) {
+  .about-us__social-box {
+    height: 100%;
+  }
+}

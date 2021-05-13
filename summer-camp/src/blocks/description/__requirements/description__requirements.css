@@ -3,3 +3,12 @@
   justify-content: center;
   align-items: center;
 }
+
+@media all and (max-width: 1024px) {
+  .description__requirements {
+    flex-direction: column;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 120px;
+  }
+}

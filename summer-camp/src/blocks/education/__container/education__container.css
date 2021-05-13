@@ -7,3 +7,9 @@
   background-size: 495px 100%;
   background-position: right;
 }
+
+@media all and (max-width: 1024px) {
+  .education__container {
+    background-image: none;
+  }
+}
