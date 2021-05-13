@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/summer-camp/static/css/main.3a2b9fa5.chunk.css",
+    "main.js": "/summer-camp/static/js/main.536d0df1.chunk.js",
+    "main.js.map": "/summer-camp/static/js/main.536d0df1.chunk.js.map",
+    "runtime-main.js": "/summer-camp/static/js/runtime-main.eaccf1d7.js",
+    "runtime-main.js.map": "/summer-camp/static/js/runtime-main.eaccf1d7.js.map",
+    "static/js/2.b56a7a53.chunk.js": "/summer-camp/static/js/2.b56a7a53.chunk.js",
+    "static/js/2.b56a7a53.chunk.js.map": "/summer-camp/static/js/2.b56a7a53.chunk.js.map",
+    "static/js/3.216e80c1.chunk.js": "/summer-camp/static/js/3.216e80c1.chunk.js",
+    "static/js/3.216e80c1.chunk.js.map": "/summer-camp/static/js/3.216e80c1.chunk.js.map",
+    "index.html": "/summer-camp/index.html",
+    "static/css/main.3a2b9fa5.chunk.css.map": "/summer-camp/static/css/main.3a2b9fa5.chunk.css.map",
+    "static/js/2.b56a7a53.chunk.js.LICENSE.txt": "/summer-camp/static/js/2.b56a7a53.chunk.js.LICENSE.txt",
+    "static/media/Emir.3a9e5276.png": "/summer-camp/static/media/Emir.3a9e5276.png",
+    "static/media/index.css": "/summer-camp/static/media/фото1.47c31447.png",
+    "static/media/Ramil.0a210d32.png": "/summer-camp/static/media/Ramil.0a210d32.png",
+    "static/media/Yura.412951fa.png": "/summer-camp/static/media/Yura.412951fa.png",
+    "static/media/instagram-active.0d0b1773.svg": "/summer-camp/static/media/instagram-active.0d0b1773.svg",
+    "static/media/instagram.6219ab54.svg": "/summer-camp/static/media/instagram.6219ab54.svg",
+    "static/media/telegram-active.f34f7cb8.svg": "/summer-camp/static/media/telegram-active.f34f7cb8.svg",
+    "static/media/telegram.a09da107.svg": "/summer-camp/static/media/telegram.a09da107.svg",
+    "static/media/whatsapp.cb3c70a1.svg": "/summer-camp/static/media/whatsapp.cb3c70a1.svg",
+    "static/media/whatsappActive.d707aa24.svg": "/summer-camp/static/media/whatsappActive.d707aa24.svg",
+    "static/media/Рамиль.4af1c3d0.png": "/summer-camp/static/media/Рамиль.4af1c3d0.png",
+    "static/media/Эмир.12c271d0.png": "/summer-camp/static/media/Эмир.12c271d0.png",
+    "static/media/Юра.c3f4c67c.png": "/summer-camp/static/media/Юра.c3f4c67c.png",
+    "static/media/Юра1.b942cfb6.png": "/summer-camp/static/media/Юра1.b942cfb6.png",
+    "static/media/фото2.460ad46e.png": "/summer-camp/static/media/фото2.460ad46e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaccf1d7.js",
+    "static/js/2.b56a7a53.chunk.js",
+    "static/css/main.3a2b9fa5.chunk.css",
+    "static/js/main.536d0df1.chunk.js"
+  ]
+}
