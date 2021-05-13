@@ -1,0 +1,10 @@
+.description__program-list {
+  display: flex;
+  width: 250px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0;
+  padding-left: 20px;
+  list-style-type: none;
+  margin: 0;
+}

@@ -1,0 +1,5 @@
+.about__courses {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

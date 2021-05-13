@@ -1,0 +1,10 @@
+.header__nav {
+  display: none;
+}
+
+@media all and (max-width: 1440px) and (min-width: 1024px) {
+  .header__nav {
+    display: flex;
+    align-items: center;
+  }
+}

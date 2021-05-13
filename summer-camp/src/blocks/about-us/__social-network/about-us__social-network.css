@@ -1,0 +1,7 @@
+.about-us__social-network {
+    margin-right: 30px;
+}
+
+.about-us__social-network#whatsapp {
+    margin-right: 0;
+}

@@ -1,0 +1,8 @@
+.location__map {
+  border: 0;
+  box-sizing: border-box;
+  border-radius: 10px;
+  width: 1230px;
+  height: 500px;
+  margin-bottom: 170px;
+}

@@ -1,0 +1,11 @@
+.team__teammate-name {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 150%;
+  color: #000000;
+  margin: 0;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}

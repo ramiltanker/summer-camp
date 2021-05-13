@@ -1,0 +1,14 @@
+.location__adress {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 32px;
+  text-align: center;
+  color: #202020;
+  margin: 0;
+}
+
+.location__adress:last-of-type {
+    margin-bottom: 60px;
+}

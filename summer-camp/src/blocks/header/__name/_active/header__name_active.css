@@ -1,0 +1,15 @@
+@keyframes name {
+  from {
+    color: #000000;
+  }
+  to {
+    color: #ffffff;
+  }
+}
+
+.header__name_active {
+  position: relative;
+  z-index: 2;
+  color: #ffffff;
+  animation: name 1s linear 0s;
+}

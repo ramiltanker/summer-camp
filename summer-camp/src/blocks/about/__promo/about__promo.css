@@ -1,0 +1,28 @@
+.about__promo {
+  width: 449px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 128.4%;
+  color: #202020;
+  border-top: 0;
+  border-bottom: 0;
+  border-right: 0;
+  border-left: 3px;
+  border-style: solid;
+  border-color: #000000;
+  padding-left: 20px;
+  margin: 0;
+  margin-bottom: 50px;
+}
+
+@media all and (max-width: 1024px) {
+  .about__promo {
+    width: 313px;
+    font-size: 14px;
+    line-height: 128.4%;
+    color: #ffffff;
+    border-color: #ffffff;
+  }
+}

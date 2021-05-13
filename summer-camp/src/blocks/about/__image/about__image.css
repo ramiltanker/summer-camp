@@ -1,0 +1,12 @@
+.about__image {
+  width: 589px;
+  height: 543px;
+  filter: drop-shadow(-4px 4px 40px rgba(0, 0, 0, 0.15));
+  border-radius: 10px;
+}
+
+@media all and (max-width: 1024px)  {
+  .about__image {
+    display: none;
+  }
+}

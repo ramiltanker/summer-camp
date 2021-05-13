@@ -1,0 +1,16 @@
+.description__course-button {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 150%;
+  color: #ACACAC;
+  background-color: rgba(255, 255, 255, 0);
+  cursor: pointer;
+  margin-right: 150px;
+  border: none;
+}
+
+.description__course-button:last-of-type {
+  margin-right: 0px;
+}

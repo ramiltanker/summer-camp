@@ -1,0 +1,13 @@
+.location__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  border-top: 0.2px;
+  border-style: solid;
+  border-color: #000000;
+}

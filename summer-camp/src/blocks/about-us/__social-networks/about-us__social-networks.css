@@ -1,0 +1,7 @@
+.about-us__social-networks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  margin-bottom: 65px;
+}

@@ -1,0 +1,5 @@
+.description__about-box {
+  display: flex;
+  flex-direction: column;
+  margin-right: 140px;
+}

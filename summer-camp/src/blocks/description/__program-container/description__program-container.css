@@ -1,0 +1,7 @@
+.description__program-container {
+    display: flex;
+    width: 180px; 
+    position: relative;
+}
+
+/* Когда нажимаешь на кнопку добавляется класс с другой шириной 250 px */

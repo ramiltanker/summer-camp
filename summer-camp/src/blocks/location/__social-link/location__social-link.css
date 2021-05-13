@@ -1,0 +1,21 @@
+.location__social-link {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: #202020;
+  text-decoration: none;
+  margin-right: 45px;
+  transition: color 0.2s linear;
+}
+
+.location__social-link:hover {
+  color: #ffc531;
+}
+
+.location__social-link#telegram {
+    margin-right: 0;
+}

@@ -1,0 +1,5 @@
+.location__box_active {
+  max-height: 300px;
+  overflow: visible;
+  opacity: 1;
+}

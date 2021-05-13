@@ -1,0 +1,15 @@
+.description__requirement {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-right: 30px;
+  padding-left: 30px;
+  padding-right: 10px;
+}
+
+.description__requirement:last-of-type {
+  margin-right: 0;
+}

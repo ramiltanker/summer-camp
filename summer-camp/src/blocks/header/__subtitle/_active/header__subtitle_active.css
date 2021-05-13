@@ -1,0 +1,15 @@
+@keyframes subtitle {
+  from {
+    color: #000000;
+  }
+  to {
+    color: #ffffff;
+  }
+}
+
+.header__subtitle_active {
+    position: relative;
+  z-index: 2;
+  color: #ffffff;
+  animation: subtitle 1s linear 0s;
+}

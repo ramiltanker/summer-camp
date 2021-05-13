@@ -1,0 +1,25 @@
+.about__header {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 128.4%;
+  color: #000000;
+  margin: 0;
+  margin-bottom: 46px;
+}
+
+@media all and (max-width: 1024px) {
+  .about__header {
+    font-size: 34px;
+    line-height: 128.4%;
+    color: #ffffff;
+    width: 361px;
+  }
+}
+
+@media all and (max-width: 375px) {
+  .about__header {
+    width: 280px;
+  }
+}

@@ -1,0 +1,11 @@
+.team__teammate {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+}
+
+.team__teammate:last-of-type {
+    margin-right: 0px;
+}

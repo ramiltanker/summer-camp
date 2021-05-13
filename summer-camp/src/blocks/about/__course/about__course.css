@@ -1,0 +1,32 @@
+.about__course {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 40px;
+  color: #666666;
+  border: 1px solid #666666;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: 40px;
+}
+
+.about__course:last-of-type {
+  margin-right: 0;
+}
+
+@media all and (max-width: 1024px) {
+  .about__course {
+    height: 56px;
+    margin-right: 0px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 14px;
+    line-height: 40px;  
+  }
+}

@@ -1,0 +1,14 @@
+.description__program-text {
+  width: 690px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 150%;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-top: 106px;
+  margin-bottom: 106px;
+}

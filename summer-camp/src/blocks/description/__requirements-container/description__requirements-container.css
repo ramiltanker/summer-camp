@@ -1,0 +1,11 @@
+.description__requirements-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #0A0A0A;
+  padding-bottom: 120px;
+  padding-top: 120px;
+  padding-left: 50px;
+  padding-right: 50px;
+}

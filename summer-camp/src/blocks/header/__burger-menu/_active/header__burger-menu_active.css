@@ -1,0 +1,7 @@
+.header__burger-menu_active {
+    position: fixed;
+    right: 15px;
+    top: 35px;
+    z-index: 2;
+    background-image: url(../../../../images/menu_white.svg);
+}

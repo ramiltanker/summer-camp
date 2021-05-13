@@ -1,0 +1,15 @@
+.about {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-bottom: 170px;
+}
+
+@media all and (max-width: 1024px) {
+  .about {
+    background-color: #000000;
+    margin-bottom: 90px;
+  }
+}

@@ -1,0 +1,26 @@
+.description__program-ul {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 150%;
+  color: #ffffff;
+  padding: 0;
+  list-style-type: none;
+  margin: 0;
+  margin-bottom: 40px;
+  max-height: 25px;
+  -webkit-transition: max-height 0.5s ease-in-out;
+  transition: max-height 0.5s ease-in-out;
+}
+
+.description__program-ul_active {
+  max-height: 500px;
+}
+
+.description__program-ul li {
+  position: relative;
+  z-index: -5;
+  opacity: 0;
+  transition: all 0.5s ease-in-out;
+}

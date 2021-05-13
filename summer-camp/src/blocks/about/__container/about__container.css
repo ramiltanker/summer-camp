@@ -1,0 +1,17 @@
+.about__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+@media all and (max-width: 1024px) {
+  .about__container {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+  }
+}

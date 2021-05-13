@@ -1,0 +1,10 @@
+.about-us__image {
+    display: none;
+}
+
+@media all and (max-width: 1024px) {
+    .about-us__image {
+        display: block;
+        object-fit: cover;
+    }
+}

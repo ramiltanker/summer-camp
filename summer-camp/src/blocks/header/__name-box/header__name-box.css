@@ -1,0 +1,12 @@
+.header__name-box {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  margin-right: 230px;
+}
+
+@media all and (max-width: 1024px) {
+  .header__name-box {
+    margin-right: 100px;
+  }
+}

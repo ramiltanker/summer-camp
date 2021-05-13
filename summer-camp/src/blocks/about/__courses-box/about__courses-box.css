@@ -1,0 +1,17 @@
+.about__courses-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+
+@media all and (max-width: 1024px) {
+  .about__courses-box {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    row-gap: 20px;
+    column-gap: 20px;
+  }
+}

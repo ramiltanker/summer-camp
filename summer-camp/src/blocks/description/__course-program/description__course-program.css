@@ -1,0 +1,8 @@
+.description__course-program {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-self: flex-start;
+  z-index: 5000;
+  background-color: rgb(0, 0, 0);
+}

@@ -1,0 +1,14 @@
+.description__program-li {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 128.4%;
+  color: #ffffff;
+  padding-left: 20px;
+  margin-top: 15px;
+}
+
+.description__program-li:first-of-type {
+    margin-top: 25px;
+}

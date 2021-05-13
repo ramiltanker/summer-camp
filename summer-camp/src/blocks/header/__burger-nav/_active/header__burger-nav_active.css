@@ -1,0 +1,28 @@
+.header__burger-nav_active {
+  top: 0;
+}
+
+
+@media all and (max-height: 850px) {
+    .header__burger-nav_active {
+        top: -100px;
+    }
+}
+
+@media all and (max-height: 750px) {
+    .header__burger-nav_active {
+        top: -50px;
+    }
+}
+
+@media all and (max-height: 570px) {
+    .header__burger-nav_active {
+        top: 0px;
+    }
+}
+
+@media all and (max-height: 550px) {
+    .header__burger-nav_active {
+        top: 0px;
+    }
+}

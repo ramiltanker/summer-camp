@@ -1,0 +1,13 @@
+@keyframes move {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(230px);
+  }
+}
+
+.location__button_active {
+  background-image: url(../../../../images/Shape.png);
+  animation: move 0.5s linear 0s 1 forwards;
+}
