@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/summer-camp/static/css/main.3a2b9fa5.chunk.css",
-    "main.js": "/summer-camp/static/js/main.536d0df1.chunk.js",
-    "main.js.map": "/summer-camp/static/js/main.536d0df1.chunk.js.map",
+    "main.css": "/summer-camp/static/css/main.d4b76bf5.chunk.css",
+    "main.js": "/summer-camp/static/js/main.8d4d8641.chunk.js",
+    "main.js.map": "/summer-camp/static/js/main.8d4d8641.chunk.js.map",
     "runtime-main.js": "/summer-camp/static/js/runtime-main.eaccf1d7.js",
     "runtime-main.js.map": "/summer-camp/static/js/runtime-main.eaccf1d7.js.map",
     "static/js/2.b56a7a53.chunk.js": "/summer-camp/static/js/2.b56a7a53.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.216e80c1.chunk.js": "/summer-camp/static/js/3.216e80c1.chunk.js",
     "static/js/3.216e80c1.chunk.js.map": "/summer-camp/static/js/3.216e80c1.chunk.js.map",
     "index.html": "/summer-camp/index.html",
-    "static/css/main.3a2b9fa5.chunk.css.map": "/summer-camp/static/css/main.3a2b9fa5.chunk.css.map",
+    "static/css/main.d4b76bf5.chunk.css.map": "/summer-camp/static/css/main.d4b76bf5.chunk.css.map",
     "static/js/2.b56a7a53.chunk.js.LICENSE.txt": "/summer-camp/static/js/2.b56a7a53.chunk.js.LICENSE.txt",
     "static/media/Emir.3a9e5276.png": "/summer-camp/static/media/Emir.3a9e5276.png",
     "static/media/index.css": "/summer-camp/static/media/фото1.47c31447.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.eaccf1d7.js",
     "static/js/2.b56a7a53.chunk.js",
-    "static/css/main.3a2b9fa5.chunk.css",
-    "static/js/main.536d0df1.chunk.js"
+    "static/css/main.d4b76bf5.chunk.css",
+    "static/js/main.8d4d8641.chunk.js"
   ]
 }
